@@ -40,13 +40,24 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+express is just middleware
+express router allows us to breakup end points into seperate files
+
 - [ ] Describe Middleware?
+
+  middleware in this case allows us to add functionality that is not native to the framework or language. 
 
 - [ ] Describe a Resource?
 
+anything that is in the database
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+  http status codes
+
 - [ ] How can we partition our application into sub-applications?
+
+  by using express routes
 
 ## Minimum Viable Product
 
